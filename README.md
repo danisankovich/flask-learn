@@ -6,7 +6,7 @@ create an environment (Windows)
 
 activate environment
 
-```$ .venv/bin/activate```
+```$ .venv/Scripts/activate```
 
 install flask
 
