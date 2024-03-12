@@ -15,3 +15,7 @@ install flask
 start server
 
 ```$ flask --app flaskr run --debug```
+
+deactivate virtual environment
+
+```$ deactivate```
